@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello.txt");
         System.out.println("hello.txt2");
         System.out.println("hello.txt3");
+        System.out.println("hello.hot-fix1");
     }
 }
