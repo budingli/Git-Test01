@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("hello.txt3");
         System.out.println("hello.hot-fix1");
         System.out.println("hello.master test err01");
+        System.out.println("hello.hot-fix test err");
     }
 }
